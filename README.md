@@ -1,2 +1,3 @@
-# polar-deployment
-Deployment repository for Polar Bookshop.
+# Polar Deployment
+
+Environment and deployment repository for Polar Bookshop.
