@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: catalog-service
   newName: ghcr.io/polarbookshop/catalog-service
-  newTag: a4cfbb8a9c04073b3432eaa9213ce067c490b9d9
+  newTag: 0cdbe280bd81c3c3d1a8fcd2bc8fd690110264ba
 
 replicas:
 - count: 2
