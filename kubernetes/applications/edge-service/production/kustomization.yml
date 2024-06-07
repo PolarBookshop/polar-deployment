@@ -19,7 +19,7 @@ configMapGenerator:
 images:
 - name: edge-service
   newName: ghcr.io/polarbookshop/edge-service
-  newTag: d2d246b675ece22273dafefe63427f9813ed9c80
+  newTag: 5dd04292c40670e4d1c0f0735346cda03939acb2
 
 replicas:
 - count: 1
