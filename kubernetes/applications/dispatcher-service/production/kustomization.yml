@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: dispatcher-service
   newName: ghcr.io/polarbookshop/dispatcher-service
-  newTag: 6e4d8f85e8e125450fc99a5c1553570539bed042
+  newTag: 93545455061581e0171cf8e75066b033a3474787
 
 replicas:
 - count: 1
